@@ -1,0 +1,26 @@
+{
+  "name": "chrome-headless-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start my.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcaudan/chrome-headless-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcaudan/chrome-headless-worker/issues"
+  },
+  "homepage": "https://github.com/bcaudan/chrome-headless-worker#readme",
+  "devDependencies": {
+    "jasmine-core": "^3.3.0",
+    "karma": "^3.1.3",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-spec-reporter": "0.0.32"
+  }
+}
